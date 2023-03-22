@@ -1,9 +1,4 @@
-# My-Progress-In-Database
- 
-```
-   This is my progress in database using MySQL
-   I will share all videos and books i learned during mu learning of database
-```
+# Foundation of Database
 
 ## Videos i watched
 * <a href = "https://www.youtube.com/watch?v=h0j0QN2b57M&t=6s"> Database Design Course - Learn how to design and plan a database for beginners (by Caleb Curry) </a>
